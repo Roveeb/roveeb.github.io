@@ -36,4 +36,6 @@ Mostrar sobre sincronização <br />
 #### unknown table
 
 Apagar pasta ~/.config/joplin-desktop <br />
-Apagar pasta ~/.config/Joplin
+Apagar pasta ~/.config/Joplin <br />
+
+//see you later 

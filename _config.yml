@@ -4,7 +4,7 @@ description: Um canal focado em tecnologia
 destination: jekyllbuild
 url: https://roveeb.com
 baseurl: #place folder name if site is served in subfolder
-permalink: /:title/
+permalink: :year/:month/:title/
 paginate: 8
 paginate_path: /page/:num/
 infinite_scroll: true #change to false if you want to use pagination

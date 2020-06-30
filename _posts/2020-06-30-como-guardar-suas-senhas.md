@@ -9,7 +9,7 @@ tags: [video, iframe]
 category: [video]
 ---
 
-## Introdução
+### Introdução
 
 Para falarmos do KeePassXC, antes precisamos entender de onde ele surgiu. O KeePassXC é um fork do projeto KeePassX, que nasceu devido a demora das atualizações da equipe do KeePassX. O KeePassX por sua vez, é um fork do projeto KeePass, que está disponível apenas para windows (oficialmente), porém também era open-source.
 
@@ -18,7 +18,7 @@ As principais diferenças estão no visual, sendo o KeePassXC mais adaptável ao
 O KeePassXC é um gerenciador seguro de senhas (pode ser guardados arquivos também) open source, cross-plataform (ou seja, funciona em linux, mac e windows) e que está em constante desenvolvimento.
 
 
-## Instalação
+### Instalação
 
 Na página do projeto existem vários tutoriais para cada sistema operacional. Para windows, basta baixar o instalador (ou a versão portable), ir dando next (avançar), aceitar os termos e finalizar.
 
@@ -28,7 +28,7 @@ Para instalar em uma distribuição linux, como no caso o Ubuntu que estou utili
 sudo apt install keepassxc
 ```
 
-## Pós-Instalação
+### Pós-Instalação
 Após instalar, caso você já tenha uma outra database, você pode importar um CSV ou um arquivo KeePass ou até mesmo abrir a database antiga.
 
 Caso seja a sua primeira vez no programa, clique em create new database ou criar um novo banco de dados.

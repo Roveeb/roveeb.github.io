@@ -5,7 +5,7 @@ type: youtube
 yt-video-id: -7fA3ckDwhg
 homedisplay: iframe
 title: Como guardar suas SENHAS com SEGURANÇA e de maneira SIMPLES - KeePassXC
-tags: [video, iframe]
+tags: [video, segurança]
 category: [video]
 ---
 

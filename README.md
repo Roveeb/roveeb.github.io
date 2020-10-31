@@ -1,2 +1,7 @@
-## Blog baseado no [https://github.com/DigitalMindCH/gridster-jekyll-theme](https://github.com/DigitalMindCH/gridster-jekyll-theme)
+# Roveeb
 
+Repositório para o canal Roveeb
+
+## Redes sociais
+
+Veja nosso canal no [Youtube](https://www.youtube.com/channel/UCSc4UgSe4WiRpnXS23ZrQvg).
